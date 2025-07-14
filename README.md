@@ -27,4 +27,3 @@ This tool scrapes a Reddit user's profile and generates a detailed persona using
 
 '''bash
 git clone https://github.com/your-username/reddit-persona-generator.git
-cd reddit-persona-generator
