@@ -1,0 +1,39 @@
+## User Persona: Rohan Patel - The Aspiring Spacial Computing Architect
+
+**Age:** 28
+
+**Occupation:** iOS Developer (Potentially on H1B Visa)
+
+**Motivations:**
+
+*   **Career Advancement:** Driven to learn and implement cutting-edge technologies like spatial computing in visionOS, likely with an eye towards building a successful and fulfilling career. _(Posts: [VisionPro] Spacial tours with 3D map and 360˚ video; [visionosdev] Best blogs, tutorial channels to learn)_
+*   **Building a Better Life:** Implies a desire to build a better life in the US, hinted at by engagement with discussions around the H1B visa. _(Posts: [AskReddit] H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?)_
+*   **Exploration & Innovation:** Interested in exploring new technological frontiers and pushing the boundaries of what's possible in spatial computing. _(Posts: [VisionPro] Watching Edgerunners on the moon feels)_
+
+**Habits:**
+
+*   **Early Adopter:** Actively seeks out information and resources to stay ahead of the curve in his field. _(Posts: [visionosdev] Best blogs, tutorial channels to learn)_
+*   **Reddit User:** Frequently uses Reddit for information gathering, discussion, and community engagement across a variety of topics.
+*   **Enjoys Social Outings:** Patronizes local bars, particularly those with a mature atmosphere focused on music and dancing. _(Posts: [newyorkcity] I feel violated by intern season)_
+*   **Gamer (Casual/Strategic):** Enjoys strategy/city-building games like Manor Lords, but struggles to maintain long term engagement. _(Comments: [ManorLords] I do too but I rarely finish a game haha. Too little late game content)_
+
+**Frustrations:**
+
+*   **Influx of Younger Crowds:** Annoyed by the changing demographics in his favorite social spaces, particularly when college-aged individuals disrupt the established atmosphere. _(Posts: [newyorkcity] I feel violated by intern season)_
+*   **Game Content Limitations:** Gets bored or frustrated by the lack of late-game content in strategic games like Manor Lords. _(Comments: [ManorLords] I do too but I rarely finish a game haha. Too little late game content)_
+*   **Town Management Problems:** Struggles with balancing town development, specifically supply chains, in Manor Lords. _(Comments: [ManorLords] Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles. I didn’t notice how demanding it was going to be)_
+*   **Potential for Exploitation:** Aware of and concerned about the narrative surrounding potential exploitation of H1B visa holders. _(Posts: [AskReddit] H1B holders, what are your thoughts on the narrative that you are being exploited?)_
+
+**Personality:**
+
+*   **Inquisitive:** Asks detailed questions and seeks to understand complex systems and processes, both in technology and games. _(Comments: [ChatGPT] Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?)_
+*   **Analytical:** Thinks critically about game mechanics and provides helpful advice to other players. _(Comments: [ManorLords] Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.)_
+*   **Observant:** Pays attention to details and inconsistencies, whether in social situations or game design. _(Posts: [nba] What needs to happen for the league to review the inconsistencies of the refs?)_
+*   **Forward-Thinking:** Speculates about future technological advancements and their potential applications. _(Posts: [VisionPro] Can't wait for Vision Air 5 launching in 2034 with these transparent displays!)_
+
+**Goals:**
+
+*   **Become Proficient in VisionOS Development:** Master the skills and knowledge necessary to develop innovative and impactful spatial computing applications.
+*   **Contribute to the Future of Spatial Computing:** Play a role in shaping the future of spatial computing through his work and contributions.
+*   **Achieve Financial Stability and Career Success in the US:** Build a stable and rewarding life for himself in the United States.
+*   **Enjoy a Balanced Lifestyle:** Find a balance between his professional ambitions and his personal interests, including socializing and gaming.
